@@ -1,0 +1,59 @@
+[
+  {"genre" : "액션",
+    "completed" : false
+  },
+  {"genre" : "모험",
+    "completed" : false
+  },
+  {"genre" : "애니메이션",
+    "completed" : false
+  },
+  {"genre" : "코미디",
+    "completed" : false
+  },
+  {"genre" : "범죄",
+    "completed" : false
+  },
+  {"genre" : "다큐멘터리",
+    "completed" : false
+  },
+  {"genre" : "드라마",
+    "completed" : false
+  },
+  {"genre" : "가족",
+    "completed" : false
+  },
+  {"genre" : "판타지",
+    "completed" : false
+  },
+  {"genre" : "역사",
+    "completed" : false
+  },
+  {"genre" : "공포",
+    "completed" : false
+  },
+  {"genre" : "음악",
+    "completed" : false
+  },
+  {"genre" : "미스터리",
+    "completed" : false
+  },
+  {"genre" : "로맨스",
+    "completed" : false
+  },
+  {"genre" : "SF",
+    "completed" : false
+  },
+  {"genre" : "TV영화",
+    "completed" : false
+  },
+  {"genre" : "스릴러",
+    "completed" : false
+  },
+  {"genre" : "전쟁",
+    "completed" : false
+  },
+  {"genre" : "서부",
+    "completed" : false
+  }
+]

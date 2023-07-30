@@ -1,0 +1,116 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 59,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$Qzge8pUNCCfz$X9oWun79wtIMLnmztiUr0kXxzUkESX1w2JiFRKQfAZ4=",
+        "last_login": "2020-11-25T13:11:54.647Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-11-25T11:27:35.538Z",
+        "favoriteGenres": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 60,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$NhPg0Hj1Ev55$KS5+eCEo539SX+E99uR6hypLeEBRNbMvCxI2PDPVp/s=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "kr2020lbh",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-11-25T11:28:11.298Z",
+        "favoriteGenres": "액션 코미디 범죄 판타지 공포",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 61,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$FxVFk7RBCCPd$B1zK4DToyid/I9ns6Up31bxv3tpaHgNEnuHc/CQcLcA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "wkfwktka",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-11-25T11:41:32.687Z",
+        "favoriteGenres": "공포 음악 미스터리 로맨스",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 62,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$yiYUK27NJC0u$3m8ybIBp3+jasyzg+fl7nq1g9gFOtmOjQ4rgWBwQtPY=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ssafy",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-11-25T11:52:32.637Z",
+        "favoriteGenres": "범죄 드라마 가족 TV영화 스릴러",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 63,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$F82rgHTHOzlm$Wcfg+T1rY1h3+7X19Jc4ZSlhUwjBjAP98vPXs2YqlYw=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "hamo123",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-11-25T12:00:37.615Z",
+        "favoriteGenres": "코미디 미스터리 로맨스",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 64,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$xseNB49NFTNv$8mP5tBZ0e79p2M13i6eC5ihE4N37Nf7174N/0aULosw=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ssafy5",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-11-25T13:28:48.784Z",
+        "favoriteGenres": "드라마 판타지 미스터리",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

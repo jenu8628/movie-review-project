@@ -2,6 +2,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,python,django,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,django,visualstudiocode
 
+
+새 폴더
+backend
+
 ### Django ###
 *.log
 *.pot
